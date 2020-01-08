@@ -8,26 +8,26 @@ body{
 
 p {
   margin: 15px;
+  padding: 3px;
   border: 2px solid black;
 }
 
 .dwayne{
   float: left;
-  width: 20%;
-  margin: 15px;
+  width: 340px;
 }
 
 .mohammed {
   float: left;
-  width: 20%;
+  width: 340px;
 }
 
 .shirley {
   float: left;
-  width: 20%;
+  width: 340px;
 }
 
 .quinn {
   float: left;
-  width: 20%;
+  width: 340px;
 }
