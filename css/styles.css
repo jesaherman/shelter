@@ -1,15 +1,33 @@
-.dwayne{
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+.headers {
+  text-align: center;
+}
+
+p {
+  margin: 15px;
+  border: 2px solid black;
+}
+
+.dwayne{
+  float: left;
+  width: 20%;
+  margin: 15px;
 }
 
 .mohammed {
-
+  float: left;
+  width: 20%;
 }
 
 .shirley {
-
+  float: left;
+  width: 20%;
 }
 
 .quinn {
-
+  float: left;
+  width: 20%;
 }
