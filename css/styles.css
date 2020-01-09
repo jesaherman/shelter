@@ -10,6 +10,9 @@
     body{
       color: teal;
       background-color: blue;
+    }
+    .photo{
+      width: 50%;
 
     }
 }
@@ -28,7 +31,7 @@ body{
   background-color: aliceblue;
   background-image: url(../img/background.jpg);
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
 }
 
@@ -38,6 +41,12 @@ body{
   font-weight: bold;
 }
 
+.photo {
+  display:block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
 p {
   margin: 15px;
   padding: 3px;
@@ -45,22 +54,26 @@ p {
   background-color: aliceblue;
 }
 
+image {
+  width:25%
+}
+
 .dwayne{
   float: left;
-  width: 340px;
+  width: 25%;
 }
 
 .mohammed {
   float: left;
-  width: 340px;
+  width: 25%;
 }
 
 .shirley {
   float: left;
-  width: 340px;
+  width: 25%;
 }
 
 .quinn {
   float: left;
-  width: 340px;
+  width: 25%;
 }
